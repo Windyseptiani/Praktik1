@@ -9,10 +9,10 @@
 error ketika terjadi kesalahan penulisan tag?
 jawaban : Iya, ada.
 
-2 Apa perbedaan dari tag [<p>] dengan tag [<br>], berikan penjelasannya!
-Jawaban : Tag [<p>] untuk membuat paragraf. Tag [<br>] untuk berpindah ke baris selanjutnya.
+2 Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya!
+Jawaban : Tag < p > untuk membuat paragraf. Tag < br > untuk berpindah ke baris selanjutnya.
 
-3 Apa perbedaan atribut title dan alt pada tag [<img>], berikan penjelasannya!
+3 Apa perbedaan atribut title dan alt pada tag < img >, berikan penjelasannya!
 Jawaban : atribut title untuk membuat judul gambar, sementara alt untuk membuat deskripsi gambar.
 
 4 Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
